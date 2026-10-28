@@ -1,4 +1,4 @@
--- Active: 1793225144251@@127.0.0.1@5432@bd_plano_saude
+-- Active: 1793225144251@@127.0.0.1@5432@bd_plano_saude@public
 -- Recomeco: primeiro o que depende, depois o que e referenciado
 DROP TABLE IF EXISTS planilha_atendimento;
 DROP VIEW  IF EXISTS vw_dependente;
